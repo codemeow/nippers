@@ -28,7 +28,7 @@ After running the script, the output will display the extraction of the multimed
   - Time info: 195 + 154 s
 - Skipping:
   - Time info: 394 + 92 s
-- Extracting: "04. Everything_s Alright"
+- Extracting: "The end"
   - Time info: 441 + 110 s
 ```
 
